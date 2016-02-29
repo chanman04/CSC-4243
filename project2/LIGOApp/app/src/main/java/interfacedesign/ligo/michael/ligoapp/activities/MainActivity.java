@@ -6,6 +6,7 @@ import android.support.v7.app.ActionBarActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ImageButton;
 
 import butterknife.Bind;
 import butterknife.ButterKnife;
@@ -18,10 +19,10 @@ public class MainActivity extends ActionBarActivity{
 
     @Bind(R.id.toolbar) Toolbar mainToolbar;
 
-    private Button button1;
-    private Button button2;
-    private Button button3;
-    private Button button4;
+    private ImageButton button1;
+    private ImageButton button2;
+    private ImageButton button3;
+    private ImageButton button4;
 
 
 

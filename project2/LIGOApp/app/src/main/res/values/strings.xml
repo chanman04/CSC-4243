@@ -2,9 +2,21 @@
     <string name="app_name">LIGOApp</string>
 
     <string name="main_activity_name">MainActivity</string>
+
+    <!--Activity1 string content-->
     <string name="activity1_name">Activity1</string>
+    <string name="activity1_text">Niggas we done yet??? I sure as hell hope so cuz I don't got time
+    to be fucking round wit ya'll</string>
+
+    <!--Activity2 string content-->
     <string name="activity2_name">Activity2</string>
+
+
+    <!--Activity3 string content-->
     <string name="activity3_name">Activity3</string>
+
+
+    <!--Activity4 string content-->
     <string name="activity4_name">Activity4</string>
 
 </resources>
