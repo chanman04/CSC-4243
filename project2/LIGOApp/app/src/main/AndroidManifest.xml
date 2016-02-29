@@ -36,6 +36,12 @@
             android:label="@string/activity4_name">
         </activity>
 
+
+        <activity
+            android:name=".activities.FAQActivity"
+            android:label="@string/activity4_name">
+        </activity>
+
     </application>
 
 </manifest>

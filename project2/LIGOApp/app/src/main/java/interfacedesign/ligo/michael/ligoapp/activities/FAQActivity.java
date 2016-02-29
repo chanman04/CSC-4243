@@ -21,7 +21,7 @@ public class FAQActivity extends ActionBarActivity {
     public  void onCreate(Bundle savedInstanceState) {
 
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_activity1);
+        setContentView(R.layout.activity_faq);
         ButterKnife.bind(this);
 
     }
