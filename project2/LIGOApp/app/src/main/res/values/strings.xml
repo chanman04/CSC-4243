@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">LIGOApp</string>
+
+    <string name="main_activity_name">MainActivity</string>
+    <string name="activity1_name">Activity1</string>
+    <string name="activity2_name">Activity2</string>
+    <string name="activity3_name">Activity3</string>
+    <string name="activity4_name">Activity4</string>
+
 </resources>
