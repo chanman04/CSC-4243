@@ -5,8 +5,7 @@
 
     <!--Activity1 string content-->
     <string name="activity1_name">Activity1</string>
-    <string name="activity1_text">Niggas we done yet??? I sure as hell hope so cuz I don't got time
-    to be fucking round wit ya'll</string>
+    <string name="activity1_text">Niggas we done yet??? I sure as hell hope so cuz I don\'t got time to be fucking round wit ya\'ll</string>
 
     <!--Activity2 string content-->
     <string name="activity2_name">Activity2</string>
