@@ -1,21 +1,22 @@
-package interfacedesign.ligo.michael.ligoapp;
+package interfacedesign.ligo.michael.ligoapp.activities;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
+import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.Button;
 
+import butterknife.Bind;
 import butterknife.ButterKnife;
-import interfacedesign.ligo.michael.ligoapp.activities.Activity1;
-import interfacedesign.ligo.michael.ligoapp.activities.Activity2;
-import interfacedesign.ligo.michael.ligoapp.activities.Activity3;
-import interfacedesign.ligo.michael.ligoapp.activities.Activity4;
+import interfacedesign.ligo.michael.ligoapp.R;
 
 /**
  * Created by Mike on 2/27/16.
  */
 public class MainActivity extends ActionBarActivity{
+
+    @Bind(R.id.toolbar) Toolbar mainToolbar;
 
     private Button button1;
     private Button button2;
