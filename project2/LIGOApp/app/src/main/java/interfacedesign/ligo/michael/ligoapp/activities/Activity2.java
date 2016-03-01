@@ -3,6 +3,7 @@ package interfacedesign.ligo.michael.ligoapp.activities;
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.widget.Toolbar;
+import android.widget.TextView;
 
 import butterknife.Bind;
 import butterknife.ButterKnife;
@@ -14,6 +15,8 @@ import interfacedesign.ligo.michael.ligoapp.R;
 public class Activity2 extends ActionBarActivity {
 
     @Bind(R.id.toolbar) Toolbar mainToolbar;
+    @Bind(R.id.activity2_text) TextView mainText;
+
 
 
     @Override

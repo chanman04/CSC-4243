@@ -18,9 +18,10 @@
         android:layout_marginLeft="25dp"
         android:layout_marginBottom="25dp"
         android:layout_marginRight="25dp"
-        android:src="@mipmap/blk_holes"/>
+        android:src="@mipmap/blkholes_imgbutton_pic_resized"/>
 
     <TextView
+        android:id="@+id/activity1_text"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"

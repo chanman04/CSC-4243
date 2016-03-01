@@ -34,6 +34,12 @@ public class MainActivity extends ActionBarActivity{
         setContentView(R.layout.activity_main);
         ButterKnife.bind(this);
 
+        button1 = (ImageButton) findViewById(R.id.button1);
+        button2 = (ImageButton) findViewById(R.id.button2);
+        button3 = (ImageButton) findViewById(R.id.button3);
+        button4 = (ImageButton) findViewById(R.id.button4);
+
+
         button1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
